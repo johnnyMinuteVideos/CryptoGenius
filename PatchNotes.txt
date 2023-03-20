@@ -1,0 +1,7 @@
+20/03/2023 Patch Notes 0.02
+
+- Added a function to the buttons that will eventually send a message to a server
+
+- 60 questions in the swipe mode have been manually reviewed
+
+- Fixed a bug where the question count in the tutorial would display negative numbers
